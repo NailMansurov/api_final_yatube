@@ -69,3 +69,12 @@ DELETE запрос, удалить пост:
 ```
 /api/v1/posts/{post_id}/
 ```
+
+# Используемые технологии:
+Python 3.9.13, Django 3.2.16, DjangoRestFramework 3.12.4, djoser 2.1.0
+
+# Автор
+Наиль Мансуров
+
+Ссыдка на GitHub:
+[NailMansurov](https://github.com/NailMansurov)
